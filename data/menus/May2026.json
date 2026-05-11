@@ -1,66 +1,576 @@
 {
-  "2026-05-01": {
+  "2026-05-02": {
     "breakfast": {
-      "items": ["VEG UPMA", "BAKED SAMOSA"],
-      "accompaniments": ["COCONUT CHUTNEY", "SAMBAR"]
-    },
-    "lunch": {
-      "salad": "CUCUMBER TOMATO SALAD",
-      "healthy": "MINT BUTTERMILK",
-      "vegetable": "PANEER BUTTER MASALA",
-      "dal": "DAL FRY",
-      "rice": "PEAS PULAO",
-      "roti_puri_bread": "PHULKA",
-      "fruit_dessert": "SLICED PAPAYA"
-    },
-    "evening_snacks": ["MASALA CORN CUP"]
-  },
-  "2026-05-14": {
-    "breakfast": {
-      "items": ["PODI IDLI", "VEG PUFF"],
-      "accompaniments": ["COCONUT CHUTNEY", "SAMBAR"]
-    },
-    "lunch": {
-      "salad": "SPROUT SALAD",
-      "healthy": "TOMATO SOUP",
-      "vegetable": "MIX VEG KORMA",
-      "dal": "DAL TADKA",
-      "rice": "JEERA RICE",
-      "roti_puri_bread": "TANDOORI ROTI",
-      "fruit_dessert": "FRUIT CUSTARD"
-    },
-    "evening_snacks": ["VEG NOODLE ROLL"]
-  },
-  "2026-05-15": {
-    "breakfast": {
-      "items": ["POHA", "CHEESE TOAST"],
-      "accompaniments": ["MINT CHUTNEY"]
+      "items": [
+        "VADA PAV"
+      ],
+      "accompaniments": []
     },
     "lunch": {
       "salad": "GREEN SALAD",
-      "healthy": null,
-      "vegetable": "ALOO GOBI",
-      "dal": "RAJMA",
-      "rice": "STEAMED RICE",
-      "roti_puri_bread": "PARATHA",
-      "fruit_dessert": "GULAB JAMUN"
+      "healthy": "DAL FRY",
+      "vegetable": "STEAMED RICE",
+      "dal": "MUSHROOM MUTTER",
+      "rice": "PHULKA",
+      "roti_puri_bread": "FRUITS",
+      "fruit_dessert": "PAPAD"
     },
     "evening_snacks": []
   },
-  "2026-05-31": {
+  "2026-05-04": {
     "breakfast": {
-      "items": ["MASALA DOSA"],
-      "accompaniments": ["COCONUT CHUTNEY", "POTATO MASALA"]
+      "items": [
+        "IDLI WITH GRATED CARROT",
+        "PANEER CHILLI",
+        "MASALA EGG PUFF"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY/SAMBAR"
+      ]
     },
     "lunch": {
-      "salad": "CARROT BEET SALAD",
-      "healthy": "VEG CLEAR SOUP",
-      "vegetable": "PANEER BHURJI",
-      "dal": "YELLOW DAL",
-      "rice": "LEMON RICE",
-      "roti_puri_bread": "CHAPATI",
-      "fruit_dessert": "CUT WATERMELON"
+      "salad": "KACHUMBER",
+      "healthy": "MASALA TAAK",
+      "vegetable": "METHI ALOO",
+      "dal": "KALYA CHANYACHI AAMTI (MALVANI STYLE)",
+      "rice": "MASALE BHAT",
+      "roti_puri_bread": "POORI",
+      "fruit_dessert": "AAMRAS"
     },
-    "evening_snacks": ["BHEL PURI"]
+    "evening_snacks": [
+      "CORN ON THE COB"
+    ]
+  },
+  "2026-05-05": {
+    "breakfast": {
+      "items": [
+        "SPRING ROLL",
+        "KHAMAN DHOKLA",
+        "VEGETABLE CHILLA"
+      ],
+      "accompaniments": [
+        "GREEN CHUTNEY/TOMATO CHUTNEY/SCHEZWAN SC"
+      ]
+    },
+    "lunch": {
+      "salad": "ROASTED CARROT & CHICPEA SALAD",
+      "healthy": "TOMATO BASIL SOUP",
+      "vegetable": "STIR FRY VEG",
+      "dal": "VEG MANCHURIAN WITH GRAVY",
+      "rice": "VEG FRIED RICE",
+      "roti_puri_bread": "GARLIC BREAD",
+      "fruit_dessert": "CUT MUSKMELON"
+    },
+    "evening_snacks": [
+      "NACHOS WITH CHEESE SAUCE"
+    ]
+  },
+  "2026-05-06": {
+    "breakfast": {
+      "items": [
+        "MEDU VADA",
+        "BLUEBERRY RAGI PANCAKE",
+        "EGG KATHI ROLL"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY/SAMBAR/SWEET CHUTNEY/MINT CHUTNEY/HONEY",
+        "RAITA"
+      ]
+    },
+    "lunch": {
+      "salad": "GREEN SALAD",
+      "healthy": "BROCCOLI & LEEK SOUP",
+      "vegetable": "BUTTER TAWA VEG",
+      "dal": "DAL TADKA",
+      "rice": "JEERA RICE",
+      "roti_puri_bread": "AJWAIN RAGI PARATHA",
+      "fruit_dessert": "BANANA"
+    },
+    "evening_snacks": [
+      "VEG CROQUETTES"
+    ]
+  },
+  "2026-05-07": {
+    "breakfast": {
+      "items": [
+        "PANEER & VEG PARATHA",
+        "KANDHA/POTATO POHA WITH TARI",
+        "WHITE DHOKLA"
+      ],
+      "accompaniments": [
+        "TARI/CURD/SEV/GREEN CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "LACCHA ONION & CABBAGE SALAD",
+      "healthy": "DAHI PAPADI CHAT",
+      "vegetable": "SUKHA GOBI MUTTER SABJI",
+      "dal": "RAJMA CURRY",
+      "rice": "STEAMED RICE",
+      "roti_puri_bread": "MAKAI ROTI",
+      "fruit_dessert": "CUT WATERMELON & GRAPES"
+    },
+    "evening_snacks": [
+      "TAWA VEG TIKKI"
+    ]
+  },
+  "2026-05-08": {
+    "breakfast": {
+      "items": [
+        "NACHNI MASALA DOSA",
+        "SEVIYA UPMA WITH CARROT AND GREEN PEAS",
+        "EGG MAYO SANDWICH"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY/SAMBAR/SWEET CHUTNEY/MINT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "CHINESE BHEL ( SALAD)",
+      "healthy": "MANCHOW SOUP WITH CRISPY NOODLES",
+      "vegetable": "VEG THAI CURRY",
+      "dal": "PAD THAI NOODLES",
+      "rice": "JASMINE RICE",
+      "roti_puri_bread": "NIMBU PAANI",
+      "fruit_dessert": "CHOCOLATE BROWNIE"
+    },
+    "evening_snacks": [
+      "VEG & CORN PIZZA"
+    ]
+  },
+  "2026-05-09": {
+    "breakfast": {
+      "items": [
+        "GOBI ALOO PARATHA"
+      ],
+      "accompaniments": [
+        "CURD"
+      ]
+    },
+    "lunch": {
+      "salad": "GREEN SALAD",
+      "healthy": "PAPAD",
+      "vegetable": "SOYA BEAN KHEEMA MASALA",
+      "dal": "DAL TADKA",
+      "rice": "GHEE RICE",
+      "roti_puri_bread": "PURI",
+      "fruit_dessert": "SOOJI HALWA"
+    },
+    "evening_snacks": []
+  },
+  "2026-05-11": {
+    "breakfast": {
+      "items": [
+        "SAMOSA",
+        "EXOTIC VEG N CHEESE QUESADILLA",
+        "MOONG/ALOO SEV PURI"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY/TOMATO SALASA"
+      ]
+    },
+    "lunch": {
+      "salad": "BROKEN WHEAT VEG SALAD WITH LEMON",
+      "healthy": "ROASTED CAULIFLOWER SOUP",
+      "vegetable": "PANEER TIKKA MASALA",
+      "dal": "DAL PANCHMEL",
+      "rice": "JEERA RICE",
+      "roti_puri_bread": "MILLET ROTI",
+      "fruit_dessert": "CUT MIX FRUITS"
+    },
+    "evening_snacks": [
+      "STEAMED CORN"
+    ]
+  },
+  "2026-05-12": {
+    "breakfast": {
+      "items": [
+        "DALIYA UPMA",
+        "KURKURE PALAK CHAAT",
+        "PANEER TIKKA HOT DOG ROLL"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY/COCONUT CHUTNEY/TOMATO KETCHUP"
+      ]
+    },
+    "lunch": {
+      "salad": "BEETROOT/PEPPER/CORN/ANAR SALAD",
+      "healthy": "TOMATO BELLPEPPER SOUP",
+      "vegetable": "DUM ALOO",
+      "dal": "PUNJABI KADHI PAKORA",
+      "rice": "JEERA RICE",
+      "roti_puri_bread": "RAGI ROTI",
+      "fruit_dessert": "GOLDEN BANANA"
+    },
+    "evening_snacks": [
+      "CHEESE GARLIC BREAD"
+    ]
+  },
+  "2026-05-13": {
+    "breakfast": {
+      "items": [
+        "MASALA UTTAPAM",
+        "SPROUT & CORN BHEL",
+        "EGG BHURJI PAV"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY. SAMBHAR. MINT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "MIXED VEG RAITA",
+      "healthy": "SWEET CORN SOUP",
+      "vegetable": "SOYA BEAN with GREEN PEAS MASALA",
+      "dal": "GREEN MOONG DAL",
+      "rice": "GHEE RICE",
+      "roti_puri_bread": "MULTIGRAIN ROTI",
+      "fruit_dessert": "CUT PAPAYA"
+    },
+    "evening_snacks": [
+      "CINNAMON ROLL"
+    ]
+  },
+  "2026-05-14": {
+    "breakfast": {
+      "items": [
+        "VADA PAV",
+        "KHAMAN DHOKLA",
+        "PANEER KATHI ROLL"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "BLACK CHANA & GREEN MOONG CHAAT",
+      "healthy": "PAANI WITH POOORI",
+      "vegetable": "PATTICE",
+      "dal": "RAGDA",
+      "rice": "DAL KHICDI",
+      "roti_puri_bread": "RAITA",
+      "fruit_dessert": "CUT MUSKMELON"
+    },
+    "evening_snacks": [
+      "STEAMED MOMOS"
+    ]
+  },
+  "2026-05-15": {
+    "breakfast": {
+      "items": [
+        "PODI IDLI",
+        "PESARATU",
+        "SCRAMBLED EGG WITH TOAST"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY/MINT CHUTNEY/SALSA/GHEE"
+      ]
+    },
+    "lunch": {
+      "salad": "CHINESE BHEL",
+      "healthy": "VEG MANCHOW SOUP WITH CRISPY NOODLES",
+      "vegetable": "BOONDI RAITA",
+      "dal": "CHOLE",
+      "rice": "PANEER & VEG BIRYANI",
+      "roti_puri_bread": "PALAK PARATHA",
+      "fruit_dessert": "CUSTARD WITH MANGO"
+    },
+    "evening_snacks": [
+      "FELAFEL SHAWARMA"
+    ]
+  },
+  "2026-05-16": {
+    "breakfast": {
+      "items": [
+        "GRILLED SANDWICH"
+      ],
+      "accompaniments": []
+    },
+    "lunch": {
+      "salad": "GREEN SALAD",
+      "healthy": "RAITA",
+      "vegetable": "VEG PILAF",
+      "dal": "JALFREZI VEG",
+      "rice": "PARATHA",
+      "roti_puri_bread": "PAPAD",
+      "fruit_dessert": "FRUITS"
+    },
+    "evening_snacks": []
+  },
+  "2026-05-18": {
+    "breakfast": {
+      "items": [
+        "MYSORE MASALA DOSA",
+        "MOONG SEV PURI",
+        "BLUE BERRY RAGI PANCAKE"
+      ],
+      "accompaniments": [
+        "SAMBAR/COCONUT CHUTNEY/HONEY"
+      ]
+    },
+    "lunch": {
+      "salad": "GREEN DICED SALAD",
+      "healthy": "POTATO LEEK SOUP",
+      "vegetable": "KADAI VEG",
+      "dal": "DAL TADKA",
+      "rice": "GHEE RICE",
+      "roti_puri_bread": "AJWAIN PARATHA",
+      "fruit_dessert": "CUT WATERMELON & GRAPES"
+    },
+    "evening_snacks": [
+      "VEG CROQUETTES"
+    ]
+  },
+  "2026-05-19": {
+    "breakfast": {
+      "items": [
+        "CHOLE PAV",
+        "POTATO & GREEN PEA POHA",
+        "PANEER CHILLI"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY,COCONUT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "COLESLAW",
+      "healthy": "MINESTRONE SOUP",
+      "vegetable": "VEGETABLE AU GRATIN",
+      "dal": "POTATO LYONNAISE",
+      "rice": "RAJMA",
+      "roti_puri_bread": "GHEE RICE",
+      "fruit_dessert": "CUT PAPAYA"
+    },
+    "evening_snacks": [
+      "SAVOURY CROISSANT"
+    ]
+  },
+  "2026-05-20": {
+    "breakfast": {
+      "items": [
+        "MEDU WADA",
+        "VEG/CORN/CHEESE TAWA TIKKI",
+        "EGG BHURJI IN HOT DOG ROLL"
+      ],
+      "accompaniments": [
+        "SAMBAR COCONUT CHUTNEY / MINT & IMLI CHUTNEY",
+        "CHOPPED ONION & LEMON"
+      ]
+    },
+    "lunch": {
+      "salad": "MIXED VEG RAITA",
+      "healthy": "PALAK SHORBA",
+      "vegetable": "BHAJI",
+      "dal": "TAWA PULAO",
+      "rice": "ROASTED PAPAD",
+      "roti_puri_bread": "WHOLE WHEAT PAV",
+      "fruit_dessert": "GOLDEN BANANA"
+    },
+    "evening_snacks": [
+      "STEAMED CORN"
+    ]
+  },
+  "2026-05-21": {
+    "breakfast": {
+      "items": [
+        "VEG UPMA",
+        "GRATED CARROT & GREEN BEAN CHILLA",
+        "SAMOSA"
+      ],
+      "accompaniments": [
+        "MINT CHUTNEY/IMLI CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "CHIC PEA/CUCUMBER/ONION SALAD",
+      "healthy": "CREAM OF TOMATO",
+      "vegetable": "DUDHI KOFTA CURRY",
+      "dal": "DAL METHI",
+      "rice": "GREEN PEAS PULAO",
+      "roti_puri_bread": "WHOLE WHEAT LACCHA PARATHA",
+      "fruit_dessert": "CUT MUSKMELON"
+    },
+    "evening_snacks": [
+      "GARLIC CHEESE BREAD"
+    ]
+  },
+  "2026-05-22": {
+    "breakfast": {
+      "items": [
+        "GHEE PODI IDLI",
+        "RAGDA PATTICE",
+        "KERALA STYLE EGG PUFF"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY,COCONUT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "PAPDI CHAAT",
+      "healthy": "PUMPKIN & CINNAMON SOUP",
+      "vegetable": "SOOKHA JEERA ALOO",
+      "dal": "METHI DAL",
+      "rice": "STEAMED RICE",
+      "roti_puri_bread": "RAGI ROTI",
+      "fruit_dessert": "MOONG DAL HALWA"
+    },
+    "evening_snacks": [
+      "CUTLET VEG"
+    ]
+  },
+  "2026-05-23": {
+    "breakfast": {
+      "items": [
+        "VADA PAV"
+      ],
+      "accompaniments": [
+        "CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "GREEN SALAD",
+      "healthy": "RAITA",
+      "vegetable": "MUSHROOM BIRYANI",
+      "dal": "ALOO MUTTER",
+      "rice": "STEAMED RICE",
+      "roti_puri_bread": "PHULKA",
+      "fruit_dessert": "CUT FRUIT"
+    },
+    "evening_snacks": []
+  },
+  "2026-05-25": {
+    "breakfast": {
+      "items": [
+        "GARLIC GHEE VEG UPMA",
+        "MOONG DAL CHILLA",
+        "MASALA OMELETTE SANDWICH"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY,COCONUT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "BROKEN WHEAT/CUCUMBER/TOMATO /ONION SALAD",
+      "healthy": "TOMATO CILANTRO SOUP",
+      "vegetable": "MAC AND CHEESE",
+      "dal": "VEG MANCHURIAN",
+      "rice": "VEG FRIED RICE",
+      "roti_puri_bread": "GARLIC BREAD",
+      "fruit_dessert": "CUT WATERMELON & GRAPES"
+    },
+    "evening_snacks": [
+      "STEAMED MOMOS"
+    ]
+  },
+  "2026-05-26": {
+    "breakfast": {
+      "items": [
+        "PANEER CHILLI",
+        "KHAMAN DHOKLA",
+        "PUNJABI GOBI ALOO PARATHA"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY,COCONUT CHUTNEY/CURD"
+      ]
+    },
+    "lunch": {
+      "salad": "ROASTED CARROT BEET SALAD WITH DILL SOUR CREAM",
+      "healthy": "VEG BARLEY SOUP",
+      "vegetable": "ZEERA ALOO WITH ARBI",
+      "dal": "DAHI PAKORA CURRY",
+      "rice": "GHEE RICE",
+      "roti_puri_bread": "MINT PARATHA",
+      "fruit_dessert": "CUT PAPAYA"
+    },
+    "evening_snacks": [
+      "CORN ON THE COB"
+    ]
+  },
+  "2026-05-27": {
+    "breakfast": {
+      "items": [
+        "BAKED VADA PAV",
+        "KANCHIRPURAM IDLI",
+        "SCRAMBLED EGG WITH TOAST"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY,COCONUT CHUTNEY/SAMBAR"
+      ]
+    },
+    "lunch": {
+      "salad": "TOSSED SALAD",
+      "healthy": "CUCUMBER RAITA",
+      "vegetable": "PANEER TIKKA BIRYANI",
+      "dal": "RAGDA",
+      "rice": "PATTICE",
+      "roti_puri_bread": "RAGI ROTI",
+      "fruit_dessert": "BANANA"
+    },
+    "evening_snacks": [
+      "CINNAMON ROLL"
+    ]
+  },
+  "2026-05-28": {
+    "breakfast": {
+      "items": [
+        "TARI POHA"
+      ],
+      "accompaniments": [
+        "COCONUT CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "CUCUMBER PACHADI",
+      "healthy": null,
+      "vegetable": "LEMON RICE",
+      "dal": "SAMBAR",
+      "rice": "DOSA BHAJI",
+      "roti_puri_bread": "MINI UTTAPAM",
+      "fruit_dessert": "JAGGERY PAYASAM"
+    },
+    "evening_snacks": []
+  },
+  "2026-05-29": {
+    "breakfast": {
+      "items": [
+        "SAVOURY CROISSANT",
+        "KURMURA & OATS BHEL",
+        "EGG NOODLES KATHI ROLL"
+      ],
+      "accompaniments": [
+        "MINT & IMLI CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "BOONDI RAITA",
+      "healthy": "PALAK SHORBA",
+      "vegetable": "VEG LAKHNOWEE BIRYANI",
+      "dal": "CHOLE AMRITSARI",
+      "rice": "ROASTED PAPAD",
+      "roti_puri_bread": "POORI",
+      "fruit_dessert": "CUT MANGO"
+    },
+    "evening_snacks": [
+      "STEAMED MASALA CORN"
+    ]
+  },
+  "2026-05-30": {
+    "breakfast": {
+      "items": [
+        "BREAD PAKODA"
+      ],
+      "accompaniments": [
+        "CHUTNEY"
+      ]
+    },
+    "lunch": {
+      "salad": "TANDOORI SALAD",
+      "healthy": null,
+      "vegetable": "GREEN PEA PILAF",
+      "dal": "SOYA BEAN MASALA",
+      "rice": "DAL TADKA",
+      "roti_puri_bread": "PHULKA",
+      "fruit_dessert": "ICE CREAM"
+    },
+    "evening_snacks": []
   }
 }
